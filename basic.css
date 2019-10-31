@@ -28,6 +28,8 @@
  		   padding-right: 20px;
  		   padding-bottom: 30px;
  		   padding-left: 20px;
+    		   max-width: 100%;
+		   height: auto;
 		   background-color: rgba(0, 0, 0, 0.6);
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
@@ -110,6 +112,8 @@
 		   margin-bottom: 34px;
 		   margin-top: 34px;
   		   padding: 0px;
+    		   max-width: 100%;
+		   height: auto;
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
   		   -webkit-filter: drop-shadow(4px 4px 10px black);
@@ -124,6 +128,8 @@
 		   margin-bottom: 12px;
 		   margin-top: 12px;
   		   padding: 0px;
+    		   max-width: 100%;
+		   height: auto;
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
   		   -webkit-filter: drop-shadow(4px 4px 10px black);
