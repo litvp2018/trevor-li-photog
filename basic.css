@@ -28,7 +28,7 @@
  		   padding-right: 20px;
  		   padding-bottom: 30px;
  		   padding-left: 20px;
-		   background-color: rgba(32, 22, 61, 0.6);
+		   background-color: rgba(0, 0, 0, 0.6);
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
   		   -webkit-filter: drop-shadow(4px 4px 8px black);
@@ -43,7 +43,7 @@
  		   padding-left: 20px;
   		   padding-top: 12px;
  		   padding-bottom: 12px;
-		   background-color: rgba(32, 22, 61, 0.5);
+		   background-color: rgba(0, 0, 0, 0.5);
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
   		   -webkit-filter: drop-shadow(4px 4px 8px black);
@@ -63,7 +63,7 @@
  		   padding-right: 20px;
  		   padding-bottom: 30px;
  		   padding-left: 20px;
-		   background-color: rgba(32, 22, 61, 0.6);
+		   background-color: rgba(0, 0, 0, 0.6);
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
   		   -webkit-filter: drop-shadow(4px 4px 8px black);
