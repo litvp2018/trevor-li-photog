@@ -2,15 +2,15 @@
    [==========================]
    [  ======  ======  ======  ]
    [  [       [       [       ]  THIS IS THE THIRD CSS WHICH WAS MADE FOR MY GEOGRAPHY ECOZONE PROJECT.
-   [  [       [====]  [====]  ]  THIS REVISION v.1.1 MARCH 31st
-   [  [	           ]       ]  ]  CREATED BY TREVOR LI 2018.
+   [  [       [====]  [====]  ]  THIS REVISION v.2.0 BASED ON REVISION v.1.1 MARCH 31st 2018
+   [  [	           ]       ]  ]  CREATED BY TREVOR LI 2019.
    [  ======  ======  ======  ]
    [==========================]
 */
 
 		body {
     		   background-color: black;
-  		   background-image: url("insertimagehere");
+  		   background-image: url("insertimagehereifneededlater");
    		   background-repeat: repeat;
    		   background-position: right top;
 		   background-attachment: fixed;
@@ -134,7 +134,7 @@
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
   		   -webkit-filter: drop-shadow(4px 4px 10px black);
 		   /* for older browsers (e.g. Safari <6.0)*/
-		   border: 8px solid rgba(16, 20, 42, 0.6)
+		   border: 8px solid rgba(0, 0, 0, 0.6)
 		}
 
 		a:link {
