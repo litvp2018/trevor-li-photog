@@ -9,7 +9,7 @@
 */
 
 		body {
-    		   background-color: black;
+    		   background-color: rgb(26, 25, 24);
   		   background-image: url("insertimagehereifneededlater");
    		   background-repeat: repeat;
    		   background-position: right top;
@@ -19,7 +19,7 @@
 		p, table {
   		   font-family: "Trebuchet MS", sans-serif;
   		   font-size: 20px;
-		   color: rgb(237 , 237, 237);
+		   color: rgb(237, 237, 237);
 		   text-align: center;
 		   line-height: 24px;
 		   margin-left: 100px;
@@ -81,7 +81,7 @@
 		   margin-right: 10px;
 		   margin-bottom: 5px;
 		   margin-top: 80px;
-		   text-shadow:5px 5px 5px black;
+		   text-shadow:6px 6px 7px black;
 		}
 
 		
@@ -138,17 +138,17 @@
 		}
 
 		a:link {
- 	   	   color: rgb(255, 162, 81);
+ 	   	   color: rgb(256, 256, 256);
 		   text-decoration: none;
 		}
 
 		a:visited {
-  		   color: rgb(81, 83, 255);
+  		   color: rgb(256, 163, 82);
 		   text-decoration: underline;
 		}
 
 		a:hover {
-		   color: rgb(255, 162, 81);
+		   color: rgb(256, 163, 82);
 		   text-decoration: underline;
 		}
 
@@ -169,7 +169,7 @@
 
 		#Top {
 		   margin-top: 100pt;
-		   font-size: 52pt;
+		   font-size: 54pt;
 		   line-height: 38pt;
 		}
 		
