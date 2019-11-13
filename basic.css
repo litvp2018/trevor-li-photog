@@ -32,7 +32,7 @@
 		}
 		
 		.banner {
-		   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/banner.jpg");
+		   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/banner.jpg");
 		   background-position: center;
 		   background-repeat: no-repeat;
 		   background-size: cover;
@@ -196,8 +196,9 @@
 
 		#Top {		
 		   margin-top: 40pt;
-		   font-size: 52pt;
+		   font-size: 54pt;
 		   line-height: 42pt;
+		   letter-spacing: -1px;
 		}
 		
 		#Return {
