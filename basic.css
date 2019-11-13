@@ -44,7 +44,7 @@
 		}
 		
 
-		p, table {
+		p {
   		   font-family: "Ubuntu Regular", sans-serif;
   		   font-size: 20px;
 		   color: rgb(237, 237, 237);
@@ -74,6 +74,27 @@
   		   padding-top: 12px;
  		   padding-bottom: 12px;
 		   background-color: rgba(0, 0, 0, 0.2);
+		   filter: drop-shadow(4px 4px 8px black);
+		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
+  		   -webkit-filter: drop-shadow(4px 4px 8px black);
+		   /* for older browsers (e.g. Safari <6.0)*/
+		}
+		
+		 table {
+  		   font-family: "Ubuntu Regular", sans-serif;
+  		   font-size: 20px;
+		   color: rgb(237, 237, 237);
+		   text-align: center;
+		   line-height: 24px;
+		   margin-left: 200px;
+		   margin-right: 200px;
+  		   padding-top: 12px;
+ 		   padding-right: 50px;
+ 		   padding-bottom: 40px;
+ 		   padding-left: 50px;
+    		   max-width: 100%;
+		   height: auto;
+		   background-color: rgba(0, 0, 0, 0.4);
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
   		   -webkit-filter: drop-shadow(4px 4px 8px black);
@@ -183,6 +204,7 @@
 		#PageSelect {
 		   text-decoration: none;
 		   background-color: rgba(32, 22, 61, 0.0);
+		   padding-top: 0px;
 		   margin-bottom: 80px;
 		   margin-top: 0px;
 		   font-size: 26pt;
