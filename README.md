@@ -1,8 +1,8 @@
-## Site is now live!
+## Site under construction!
 
-__This is my site that I have created for my photography related stuff.__
+__This site will be the future site for my photography related stuff.__
 
-__The layout has been nearly finalized at this point. (New banner!)__
+__The current state of this website is not indicative of how everything will look once I create a custom theme and layout.__
 
 
 
