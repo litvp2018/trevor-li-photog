@@ -52,6 +52,7 @@
   		   padding: 0px;
     		   width: 100%;
 		   height: auto;
+	  	   overflow: hidden;
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
   		   -webkit-filter: drop-shadow(4px 4px 10px black);
