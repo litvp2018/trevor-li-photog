@@ -50,7 +50,7 @@
 		   margin-bottom: 12px;
 		   margin-top: 12px;
   		   padding: 0px;
-    		   max-width: 100%;
+    		   width: 100%;
 		   height: auto;
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
