@@ -44,6 +44,8 @@
 		}
 
 		.video {
+		   margin-left: 200px;
+		   margin-right: 200px;
    		   overflow:hidden;
    		   padding-bottom:56.25%;
  		   position:relative;
