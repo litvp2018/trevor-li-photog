@@ -2,8 +2,8 @@
      c  c  oo_    oo_    
      (OO) /  _)-</  _)-< 
    ,'.--.)\__ `. \__ `.      THIS IS THE THIRD CSS WHICH WAS ORIGNALLY MADE FOR MY GEOGRAPHY ECOZONE PROJECT.
-  / //_|_\   `. |   `. |	 THIS REVISION v.2.3 (BASED ON REVISION v.1.1 MARCH 31st 2018)
-  | \___     _| |   _| | 	 Code by Trevor Li 2019 (Last updated 12/11/2019)
+  / //_|_\   `. |   `. |	 THIS REVISION v.2.4 (BASED ON REVISION v.1.1 MARCH 31st 2018)
+  | \___     _| |   _| | 	 Code by Trevor Li 2020 (Last updated 28/04/2020)
   '.    ) ,-'   |,-'   | 	 
     `-.' (_..--'(_..--' 
 */
@@ -42,14 +42,13 @@
   		   -webkit-filter: drop-shadow(4px 4px 10px black);
 		   /* for older browsers (e.g. Safari <6.0)*/		   
 		}
-
+		
 		.video {
 		   margin-left: 200px;
 		   margin-right: 200px;
    		   overflow:hidden;
-   		   padding-bottom:50%;
- 		   position:relative;
-		   height:0;
+ 		   position: relative;
+		   height: 720px;
 		}
 		.video iframe {
 		   left:0;
